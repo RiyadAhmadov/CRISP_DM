@@ -50,4 +50,4 @@ For a deeper understanding of CRISP-DM and its practical applications, consider 
 
 ## Contact
 
-For questions or feedback regarding this README or CRISP-DM, please contact [Riyad] at [riyadehmedov03@gmail.com].
+For questions or feedback regarding this README or CRISP-DM, please contact *Riyad* at *riyadehmedov03@gmail.com*.
